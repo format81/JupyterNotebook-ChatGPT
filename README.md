@@ -7,7 +7,7 @@ Basically this example Notebook is aiming to provide interface to ask questions 
 
 Please be aware it's just a playground.
 
-Sharing sensitive information with an AI like ChatGPT requires careful consideration of the risks and potential consequences. Organizations need to ensure that they have robust privacy, security, and ethical frameworks in place to protect sensitive information and minimize the potential for harm.
+*Sharing sensitive information with an AI like ChatGPT requires careful consideration of the risks and potential consequences. Organizations need to ensure that they have robust privacy, security, and ethical frameworks in place to protect sensitive information and minimize the potential for harm.*
 
 
 ## Screenshots
