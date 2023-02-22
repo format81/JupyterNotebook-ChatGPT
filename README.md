@@ -24,7 +24,7 @@ Overall, ChatGPT's NLP capabilities and knowledge retrieval ability, combined wi
 
 ## Screenshots
 
-![Screenshot](images/openAI.png)
+!(images/openai.png)
 
 
 ## Contributing
